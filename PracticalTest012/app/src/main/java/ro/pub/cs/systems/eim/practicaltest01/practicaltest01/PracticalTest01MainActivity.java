@@ -26,7 +26,7 @@ public class PracticalTest01MainActivity extends Activity {
         rightEditText = (EditText)findViewById(R.id.right_edit_text);
         leftEditText.setText(String.valueOf(0));
         rightEditText.setText(String.valueOf(0));
-
+        
         leftButton = (Button)findViewById(R.id.left_button);
         rightButton = (Button)findViewById(R.id.right_button);
     }
